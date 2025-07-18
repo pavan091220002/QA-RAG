@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **PDF RAG System** is a Python-based application for processing and querying PDF documents, optimized for clinical and mental health content. It uses Retrieval-Augmented Generation (RAG) to extract text and images, perform semantic chunking, store content in a FAISS vector store, and generate accurate query responses using the google/flan-t5-base model. This system enhances document analysis by combining text and image data for comprehensive query answering.
+The **QA RAG System** is a Python-based application for processing and querying PDF documents, optimized for clinical and mental health content. It uses Retrieval-Augmented Generation (RAG) to extract text and images, perform semantic chunking, store content in a FAISS vector store, and generate accurate query responses using the google/flan-t5-base model. This system enhances document analysis by combining text and image data for comprehensive query answering.
 
 ## Key Features
 
